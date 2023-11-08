@@ -1,0 +1,40 @@
+The list of commands which you can use to interact with AI:
+
+help -> To show this text
+
+stop -> To stop the execution
+joke -> To hear a funny joke
+screenshot -> To take a screenshot
+
+
+repeat <what_to_repeat> -> To hear what you said
+search <what_to_search> -> To search something in Wikipedia
+note <what_to_note> -> To take a note
+sleep <number_of_seconds> -> To sleep the execution
+
+
+open <application_name> -> To open an application
+	Suitable applications for now:
+		notepad -> notepad
+		calculator -> calculator
+		explorer -> explorer
+		chrome -> Google Chrome browser
+		firefox -> Firefox browser
+		settings -> Windows settings
+		excel -> Microsoft Excel
+		point -> Microsoft PowerPoint
+		word -> Microsoft Word
+		access -> Microsoft Access
+		shell -> Powershell ( in maintain )
+		term -> Terminal ( in maintain )
+		
+
+system <command> -> To execute a system command
+	Suitable commands for now:
+		shutdown
+		restart or reboot
+		sleep
+		lock
+
+
+New features will be added soon. Stay on!
